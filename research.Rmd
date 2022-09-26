@@ -2,7 +2,14 @@
 title: "Research"
 description: |
   Publications and Presentations
+site: distill::distill_website
 ---
+
+```{css, echo = F}
+d-title{
+    display: none;
+  }
+```
 
 ## Publications
 
