@@ -1,0 +1,56 @@
+---
+title: "Jacie R. McHaney | PhD Student"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+image: "images/McHaney_Jacie_Headshot_cropped.jpg" #profile pic
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=Gv2ZiSgAAAAJ&hl=en&authuser=1
+  - label: Twitter
+    url: https://twitter.com/JacieMcHaney
+  - label: CV
+    url: JMcHaney_CV_2022.pdf  #my CV
+  - label: Email
+    url: "mailto:j.mchaney@pitt.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Jacie McHaney is a fourth-year PhD student at the University of Pittsburgh. She is interested 
+in the neural mechanisms of speech processing and the influence of aging, cognition and 
+sensory impairments on speech processing. She investigates these processes through a 
+combination of behavioral, electrophysiological, neurophysiological and computational 
+techniques. 
+
+## Education
+
+**University of Pittsburgh** | Pittsburgh, PA
+
+PhD in Communication Science and Disorders | September 2019 - Present
+
+**The University of Texas at Austin** | Austin, TX
+
+BS in Psychology |  2015
+
+## Experience
+
+**University of Pittsburgh** | PhD Student | September 2019 - Present
+
+**University of Pittsburgh** | Project Coordinator | September 2018 - August 2019
+
+**The University of Texas at Austin** | Lab Manager | January 2016 - August 2018
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

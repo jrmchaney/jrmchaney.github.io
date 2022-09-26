@@ -1,0 +1,57 @@
+---
+title: "Research"
+description: |
+  Publications and Presentations
+---
+
+## Publications
+
+Lescht, E., Venker, C., **McHaney, J. R.,** Bohland, J., & Hampton Wray, A. (2022). Novel Word Recognition in Childhood Stuttering. *Topics in Language Disorders, 42*(1), 41-56.
+
+**McHaney, J. R.,** Tessmer, R., Roark, C. L., & Chandrasekaran, B. (2021). Working memory relates to individual differences in speech category learning: Insights from computational modeling and pupillometry. *Brain and Language, 222,* 105010.
+
+**McHaney, J. R.,**  Gnanateja, G. N., Smayda, K. E., Zinszer, B. D., & Chandrasekaran, B. (2021). Cortical Tracking of Speech in Delta Band Relates to Individual Differences in Speech in Noise Comprehension in Older Adults. *Ear and Hearing, 42*(2), 343-354.
+
+Llanos, F., **McHaney, J. R.,** Schuerman, W. L., Yi, H. G., Leonard, M. K., & Chandrasekaran, B. (2020). Non-invasive peripheral nerve stimulation selectively enhances speech category learning in adults. *npj Science of Learning, 5*(1), 1-11.
+
+Koski, J. E., **McHaney, J. R.,**, Rigney, A. E., & Beer, J. S. (2020). Recondsidering Longstanding Assumptions About the Role of Medial Prefrontal Cortex (MPFC) in Social Evaluation. *NeuroImage, 214,* 116752.
+
+## Preprints
+
+**McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2022). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *bioRxiv.* <https://doi.org/10.1101/2022.07.19.500625>.
+
+Roark, C. L, Paulon, G., Rebaudo, G., **McHaney, J. R.,** Sarkar, A., & Chandrasekaran, B.(2022). Individual differences in working memory impact task engagement and decision processes during speech category learning. *PsyArXiv.* <https://doi.org/10.31234/osf.io/fzqht>.
+
+Mukhopadhyay, M., **McHaney, J. R.,**, Chandrasekaran, B., Sarkar, A. (2021). Bayesian Semiparametric Longitudinal Inverse-Probit Mixed Models for Category Learning. *arXiv.* 
+<https://doi.org/10.48550/arXiv.2112.04626>.
+
+## Presentations
+
+**McHaney, J. R.,** & Chandrasekaran, B. (October 2022). Sensory Encoding and Decisionmaking in Speech Perception in Noise. Poster to be presented at the Fourteenth Annual Meeting of the Society for Neurobiology of Language, Philadelphia, PA.
+
+**McHaney, J. R.,** Yurasits, K., Hancock, K. E., Polley, D. B., & Parthasarathy, A. (July 2022). Neurophysiological markers of central gain and their relationship to speech-in-noise intelligibility in normal-hearing listeners. Poster presented at the Auditory System Gordon Research Conference: Preventing Loss and Recovering Function of the Auditory System, Smithfield, RI.
+
+Cancel, V. E., **McHaney, J. R.,** Milne, V., Palmer, C., & Parthasarathy, A. (April 2022). Hearing Difficulties with Normal Audiograms: Insights from the ADP Test Battery. Poster presented at the American Academy of Audiology 2022 + HearTECH Expo, St. Louis, MO.
+
+Cancel, V. E., **McHaney, J. R.,** Milne, V., Palmer, C., & Parthasarathy, A. (February 2022). Hearing Difficulties with Normal Audiograms: Insights from the Auditory Processing Disorder Test Battery. Poster presented at the 45th Annual MidWinter Meeting of the Association for Research in Otolaryngology, Virtual.
+
+**McHaney, J. R.,** Hancock, K. E., Polley, D. B., & Parthasarathy, A. (February 2022). Neurophysiological markers of central gain and their relationship to speech-in-noise intelligibility. Poster presented at the 45th Annual MidWinter Meeting of the Association for Research in Otolaryngology, Virtual.
+
+Lescht, E., Venker, C., **McHaney, J. R.,** & Hampton Wray, A. (January 2021). Novel word learning in children who stutter. Poster presented at the 12th Oxford Dysfluency Conference, Virtual.
+
+**McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (October 2020). Non-invasive peripheral nerve stimulation paired with speech sounds modulates pupillary responses and selectively enhances learning. Poster presented at the Twelfth Annual Meeting of the Society for Neurobiology of Language, Virtual.
+
+**McHaney, J. R.,** Zinszer, B. D., Smayda, K. E., Xie, Z., & Chandrasekaran, B. (December 2018). Cortical entrainment to the speech envelope relates to speech comprehension in older adults under adverse listening conditions. Poster presented at the 12th Annual Aging Institute Research Day, Pittsburgh, PA.
+
+Llanos, F., **McHaney, J. R.,** Leonard, M. K., Schuerman, W. L., Yi, H. G., & Chandrasekaran, B. (August 2018). Transcutaneous vagus nerve stimulation enhances non-native speech categorization. Poster presented at the 10th Annual Meeting of the Society for the Neurobiology of Language, Québec City, Québec, Canada.
+
+**McHaney, J. R.,** Zinszer, B. D., Smayda, K. E., & Chandrasekaran, B. (March 2018). Effect of listening environment on cortical entrainment to continuous speech in older adults. Poster presented at the Cognitive Neuroscience Society 25th Annual Meeting, Boston, MA.
+
+Smayda, K. E, **McHaney, J. R.,** & Chandrasekaran, B. (May 2017). Music Training for the Enhancement of Speech-In-Noise Processing in Older Adults. Poster presented at the Texas Leadership Luncheon, Austin, TX.
+
+Koski, J. E., **Richardson, J. B.,** Rigney, A. E., & Beer, J. S. (April 2016). Too much information or warm fuzzy feelings? Understanding the role of MPFC in processing the self versus others. Poster presented at the Social and Affective Neuroscience (SANS) Annual Meeting, New York, NY. (Last name changed from Richardson to McHaney in 2017).
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
