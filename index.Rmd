@@ -1,5 +1,5 @@
 ---
-title: "Jacie R. McHaney | PhD Student"
+title: "Jacie R. McHaney | PhD Candidate"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -7,6 +7,8 @@ image: "images/McHaney_Jacie_Headshot_cropped.jpg" #profile pic
 links:
   - label: Google Scholar
     url: https://scholar.google.com/citations?user=Gv2ZiSgAAAAJ&hl=en&authuser=1
+  - label: Research Gate
+    url: https://www.researchgate.net/profile/Jacie-Mchaney-2
   - label: Twitter
     url: https://twitter.com/JacieMcHaney
   - label: CV
@@ -19,11 +21,10 @@ output:
 
 ## Bio
 
-Jacie McHaney is a fourth-year PhD student at the University of Pittsburgh. She is interested 
-in the neural mechanisms of speech processing and the influence of aging, cognition and 
-sensory impairments on speech processing. She investigates these processes through a 
-combination of behavioral, electrophysiological, neurophysiological and computational 
-techniques. 
+I am a PhD candidate in Communication Science and Disorders at the University 
+of Pittsburgh. I am funded by an NIH F31-Diversity National Research Service Award (1F31DC020085-01A1)
+entitled *Neural mechanisms of speech perception in noise in middle-age* (2022-2025). 
+I used a combination of behavioral, neurophysiological, and computational techniques to conduct my research. 
 
 ## Education
 
@@ -35,13 +36,7 @@ PhD in Communication Science and Disorders | September 2019 - Present
 
 BS in Psychology |  2015
 
-## Experience
 
-**University of Pittsburgh** | PhD Student | September 2019 - Present
-
-**University of Pittsburgh** | Project Coordinator | September 2018 - August 2019
-
-**The University of Texas at Austin** | Lab Manager | January 2016 - August 2018
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
