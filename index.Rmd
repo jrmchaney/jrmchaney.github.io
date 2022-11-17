@@ -28,13 +28,13 @@ I used a combination of behavioral, neurophysiological, and computational techni
 
 ## Education
 
-**University of Pittsburgh** | Pittsburgh, PA
+- **University of Pittsburgh** | Pittsburgh, PA
 
-PhD in Communication Science and Disorders | September 2019 - Present
+  **PhD** in *Communication Science and Disorders* | September 2019 - Present
 
-**The University of Texas at Austin** | Austin, TX
+- **The University of Texas at Austin** | Austin, TX
 
-BS in Psychology |  2015
+  **BS** in *Psychology* |  2015
 
 
 
@@ -46,6 +46,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
+
+# to push, in terminal type `git add .`
+# then type `git commit -m "message about changes"`
+# then `git push`
 
 ```
 
