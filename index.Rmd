@@ -12,7 +12,7 @@ links:
   - label: Twitter
     url: https://twitter.com/JacieMcHaney
   - label: CV
-    url: JMcHaney_CV_2022.pdf  #my CV
+    url: JMcHaney_CV_2023.pdf  #my CV
   - label: Email
     url: "mailto:j.mchaney@pitt.edu"
 output:
@@ -22,9 +22,8 @@ output:
 ## Bio
 
 I am a PhD candidate in Communication Science and Disorders at the University 
-of Pittsburgh. I am funded by an NIH F31-Diversity National Research Service Award (1F31DC020085-01A1)
-entitled *Neural mechanisms of speech perception in noise in middle-age* (2022-2025). 
-I used a combination of behavioral, neurophysiological, and computational techniques to conduct my research. 
+of Pittsburgh. Broadly, I am interested in the neural mechanisms of aging, hearing, and cognition on speech processing. I use a combination of behavioral, neurophysiological, and computational cognitive neuroscience approaches to conduct my research. I am funded by an NIH F31-Diversity National Research Service Award (1F31DC020085-01A1) entitled *Neural mechanisms of speech perception in noise in middle-age* (2022-2025). 
+
 
 ## Education
 
