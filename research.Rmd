@@ -23,7 +23,7 @@ Llanos, F., **McHaney, J. R.,** Schuerman, W. L., Yi, H. G., Leonard, M. K., & C
 
 Koski, J. E., **McHaney, J. R.,**, Rigney, A. E., & Beer, J. S. (2020). Recondsidering Longstanding Assumptions About the Role of Medial Prefrontal Cortex (MPFC) in Social Evaluation. *NeuroImage, 214,* 116752.
 
-## Preprints
+## Archived Preprints
 
 **McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2022). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *bioRxiv.* <https://doi.org/10.1101/2022.07.19.500625>.
 
@@ -38,15 +38,15 @@ Mitchell, C., Zink, M. E., **McHaney, J. R.,** Anthony, S., Hallihan, M., Chandr
 
 Yurasits, K., Zhen, L. Q., Parida, S., Klara, J., **McHaney, J. R.,** Cancel, V., Zink, M. E., Mitchell, C., Chandrasekaran, B., & Parthasarathy, A. (April 2023). Age-related changes in the representations of stimulus temporal fine structure cues and their relationship to multi-talker speech intelligibility. Poster to be presented at the American Academy of Audiology 2023 + HearTECH Expo, Seattle, WA.
 
-**McHaney, J. R.,** & Chandrasekaran, B. (March 2023). Lexical knowledge facilitates phoneme categorization at intermediate noise levels. Poster to be presented at the American Auditory Society's 50th Annual Scientific & Technology Conference, Scottsdale, AZ.
+**McHaney, J. R.,** & Chandrasekaran, B. (March 2023). Lexical knowledge facilitates phoneme categorization at intermediate noise levels. Poster presented at the American Auditory Society's 50th Annual Scientific & Technology Conference, Scottsdale, AZ.
 
-Parker, A., **McHaney, J. R.,** Xie, Z., Chandrasekaran, B., & Hampton Wray, A. (February 2023). Cortical Tracking of Continuous Speech-in-Noise: Children's Use of Linguistic and Acoustic Information. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+Parker, A., **McHaney, J. R.,** Xie, Z., Chandrasekaran, B., & Hampton Wray, A. (February 2023). Cortical Tracking of Continuous Speech-in-Noise: Children's Use of Linguistic and Acoustic Information. Poster presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
 
-Zink, M. E., **McHaney, J. R.,** Mitchell, C., Hallihan, M., Anthony, S., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Neurophysiological Markers of Sensory Gain and Their Relationship to Speech Perception in Noise in Young and Middle-aged Adults. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+Zink, M. E., **McHaney, J. R.,** Mitchell, C., Hallihan, M., Anthony, S., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Neurophysiological Markers of Sensory Gain and Their Relationship to Speech Perception in Noise in Young and Middle-aged Adults. Poster presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
 
-Zhen, L. Q., **McHaney, J. R.,** Zink, M. E., Mitchell, C., Parida, S., Anthony, S., Hallihan, M., Brown, C. A., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Age-related Differences in Neural and Perceptual Signatures of Temporal Fine Structure Procesing Underlying Multi-talker Speech Intelligibility. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+Zhen, L. Q., **McHaney, J. R.,** Zink, M. E., Mitchell, C., Parida, S., Anthony, S., Hallihan, M., Brown, C. A., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Age-related Differences in Neural and Perceptual Signatures of Temporal Fine Structure Procesing Underlying Multi-talker Speech Intelligibility. Poster presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
 
-**McHaney, J. R.,** Zhen, L. Q., Anthony, S., Xie, Z., Parthasarathy, A., & Chandrasekaran, B. (February 2023). Deficits in Sensory Decision-Making Underlie Self-Perceived Hearing Difficulties. Talk to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+**McHaney, J. R.,** Zhen, L. Q., Anthony, S., Xie, Z., Parthasarathy, A., & Chandrasekaran, B. (February 2023). Deficits in Sensory Decision-Making Underlie Self-Perceived Hearing Difficulties. Talk presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
 
 **McHaney, J. R.,** Zhen, L. Q., Roark, C. L., Parthasarathy, A., & Chandrasekaran, B. (October 2022). Sensory Encoding and Decisionmaking in Speech Perception in Noise. Poster presented at the Fourteenth Annual Meeting of the Society for Neurobiology of Language, Philadelphia, PA.
 
