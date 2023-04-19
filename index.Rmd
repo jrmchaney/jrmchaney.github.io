@@ -1,5 +1,5 @@
 ---
-title: "Jacie R. McHaney | PhD Candidate"
+title: "Jacie R. McHaney, PhD"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -21,15 +21,15 @@ output:
 
 ## Bio
 
-I am a PhD candidate in Communication Science and Disorders at the University 
-of Pittsburgh. Broadly, I am interested in the neural mechanisms of aging, hearing, and cognition on speech processing. I use a combination of behavioral, neurophysiological, and computational cognitive neuroscience approaches to conduct my research. I am funded by an NIH F31-Diversity National Research Service Award (1F31DC020085-01A1) entitled *Neural mechanisms of speech perception in noise in middle-age* (2022-2025). 
+I am a Research Associate in Communication Science and Disorders at the University 
+of Pittsburgh. Broadly, I am interested in the neural mechanisms of aging, hearing, and cognition on speech processing. I use a combination of behavioral, neurophysiological, and cognitive computational neuroscience approaches to conduct my research. 
 
 
 ## Education
 
 - **University of Pittsburgh** | Pittsburgh, PA
 
-  **PhD** in *Communication Science and Disorders* | September 2019 - Present
+  **PhD** in *Communication Science and Disorders* | 2023
 
 - **The University of Texas at Austin** | Austin, TX
 
