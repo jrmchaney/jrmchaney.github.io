@@ -72,6 +72,16 @@ Smayda, K. E, **McHaney, J. R.,** & Chandrasekaran, B. (May 2017). Music Trainin
 
 Koski, J. E., **Richardson, J. B.,** Rigney, A. E., & Beer, J. S. (April 2016). Too much information or warm fuzzy feelings? Understanding the role of MPFC in processing the self versus others. Poster presented at the Social and Affective Neuroscience (SANS) Annual Meeting, New York, NY. (Last name changed from Richardson to McHaney in 2017).
 
+## Press
+
+Science Daily. (2020). Non-invasive nerve stimulation boosts learning of foreign language sounds. [press release]. Retrieved from [https://www.sciencedaily.com/releases/2020/08/200806092437.htm](https://www.sciencedaily.com/releases/2020/08/200806092437.htm)
+
+Psychology Today. (2020). Can Vagus Nerve Stimulation Improve How We Learn? [press release]. Retrieved from [https://www.psychologytoday.com/intl/blog/the-athletes-way/202008/can-vagus-nerve-stimulation-improve-how-we-learn](https://www.psychologytoday.com/intl/blog/the-athletes-way/202008/can-vagus-nerve-stimulation-improve-how-we-learn)
+
+Inverse (2020). Scientists discover brain hack that improves language abilities by 13%. Retrieved from [https://www.inverse.com/innovation/neural-stimulation-language-device](https://www.inverse.com/innovation/neural-stimulation-language-device)
+
+FACETS. (2019). Team-Based Science at its best. [press release]. Retrieved from [https://issuu.com/pittshrs/docs/facets_spring_19_pdf/28](https://issuu.com/pittshrs/docs/facets_spring_19_pdf/28)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

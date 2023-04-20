@@ -21,8 +21,9 @@ output:
 
 ## Bio
 
-I am a Research Associate in Communication Science and Disorders at the University 
-of Pittsburgh. Broadly, I am interested in the neural mechanisms of aging, hearing, and cognition on speech processing. I use a combination of behavioral, neurophysiological, and cognitive computational neuroscience approaches to conduct my research. 
+I am a Research Associate at the University of Pittsburgh. I received my PhD in Communication Science and Disorders from the University of Pittsburgh. I received a Bachelor of Science in Psychology from the University of Texas at Austin, where I completed an undergraduate honors thesis in cognitive neuroscience.
+
+My research focuses on the neurobiology and plasticity underlying speech processing using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. My long term research goal is to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research is geared towards developing a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise and speech learning in aging.
 
 
 ## Education
@@ -35,6 +36,32 @@ of Pittsburgh. Broadly, I am interested in the neural mechanisms of aging, heari
 
   **BS** in *Psychology* |  2015
 
+
+## Funding
+
+- **NRSA Individual Predoctoral Fellowship to Promote Diversity in Health-Related Research**
+
+  May 2022 - April 2023 | $49,252
+
+  NIH-NIDCD | F31DC020085 - *Neural Mechanisms of Speech Perception in Noise in Middle-Age*
+
+  Role: Principal Investigator
+
+- **University of Pittsburgh Clinical and Translational Science Institute Quantitative Methodologies Pilot Program**
+
+  February 2022 - January 2023 | $25,000
+
+  NIH-NCATS | UL1TR001857 - *Decision Strategies in Speech Perception in Aging* 
+
+  Role: Co-Principal Investigator
+
+- **NRSA Institutional Training in Auditory and Vestibular Neuroscience**
+
+  September 2019-August 2021 | $85,252
+
+  NIH-NIDCD | T32DC011499 
+
+  Role: Trainee
 
 
 ```{r setup, include=FALSE}
