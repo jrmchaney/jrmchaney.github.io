@@ -23,7 +23,7 @@ output:
 
 I am a Research Associate at the University of Pittsburgh. I received my PhD in Communication Science and Disorders from the University of Pittsburgh. I received a Bachelor of Science in Psychology from the University of Texas at Austin, where I completed an undergraduate honors thesis in cognitive neuroscience.
 
-My research focuses on the neurobiology and plasticity underlying speech processing using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. My long term research goal is to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research is geared towards developing a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise and speech learning in aging.
+My research focuses on the neurobiology and plasticity underlying speech processing using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. My long term research goal is to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
 
 
 ## Education
@@ -41,7 +41,7 @@ My research focuses on the neurobiology and plasticity underlying speech process
 
 - **NRSA Individual Predoctoral Fellowship to Promote Diversity in Health-Related Research**
 
-  May 2022 - April 2023 | $49,252
+  May 2022 - April 2023 | $48,536
 
   NIH-NIDCD | F31DC020085 - *Neural Mechanisms of Speech Perception in Noise in Middle-Age*
 
