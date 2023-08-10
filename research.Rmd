@@ -13,6 +13,8 @@ d-title{
 
 ## Publications
 
+**McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (in press). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *Journal of Speech, Language, and Hearing Research.*
+
 Lescht, E., Venker, C., **McHaney, J. R.,** Bohland, J., & Hampton Wray, A. (2022). Novel Word Recognition in Childhood Stuttering. *Topics in Language Disorders, 42*(1), 41-56.
 
 **McHaney, J. R.,** Tessmer, R., Roark, C. L., & Chandrasekaran, B. (2021). Working memory relates to individual differences in speech category learning: Insights from computational modeling and pupillometry. *Brain and Language, 222,* 105010.
@@ -25,14 +27,14 @@ Koski, J. E., **McHaney, J. R.,**, Rigney, A. E., & Beer, J. S. (2020). Recondsi
 
 ## Archived Preprints
 
-**McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2022). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *bioRxiv.* <https://doi.org/10.1101/2022.07.19.500625>.
-
 Roark, C. L, Paulon, G., Rebaudo, G., **McHaney, J. R.,** Sarkar, A., & Chandrasekaran, B.(2022). Individual differences in working memory impact task engagement and decision processes during speech category learning. *PsyArXiv.* <https://doi.org/10.31234/osf.io/fzqht>.
 
 Mukhopadhyay, M., **McHaney, J. R.,**, Chandrasekaran, B., Sarkar, A. (2021). Bayesian Semiparametric Longitudinal Inverse-Probit Mixed Models for Category Learning. *arXiv.* 
 <https://doi.org/10.48550/arXiv.2112.04626>.
 
 ## Presentations
+
+Parker, A., **McHaney, J. R.,** Coleman, B., Chandrasekaran, B., & Hampton Wray, A. (November 2023). Phonological Awareness and the Impact of Noise Level on Speech Perception. Poster to be presented at the 2023 American Speech-Language-Hearing Association Convention, Boston, MA.
 
 Mitchell, C., Zink, M. E., **McHaney, J. R.,** Anthony, S., Hallihan, M., Chandrasekaran, B., & Parthasarathy, A. (April 2023). Relationship Between Altered Auditory Temporal Processing and Speech Perception in Noise With Age. Poster to be presented at the American Academy of Audiology 2023 + HearTECH Expo, Seattle, WA.
 

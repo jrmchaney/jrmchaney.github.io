@@ -21,7 +21,7 @@ output:
 
 ## Bio
 
-I am a Research Associate at the University of Pittsburgh. I received my PhD in Communication Science and Disorders from the University of Pittsburgh. I received a Bachelor of Science in Psychology from the University of Texas at Austin, where I completed an undergraduate honors thesis in cognitive neuroscience.
+I am a Research Assistant Professor at Northwestern University. I received my PhD in Communication Science and Disorders from the University of Pittsburgh.
 
 My research focuses on the neurobiology and plasticity underlying speech processing using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. My long term research goal is to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
 
