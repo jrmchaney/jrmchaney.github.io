@@ -14,7 +14,7 @@ links:
   - label: CV
     url: JMcHaney_CV_2023.pdf  #my CV
   - label: Email
-    url: "mailto:j.mchaney@pitt.edu"
+    url: "mailto:jacie.mchaney@northwestern.edu"
 output:
   postcards::trestles
 ---
