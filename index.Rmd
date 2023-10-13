@@ -9,8 +9,6 @@ links:
     url: https://scholar.google.com/citations?user=Gv2ZiSgAAAAJ&hl=en&authuser=1
   - label: Research Gate
     url: https://www.researchgate.net/profile/Jacie-Mchaney-2
-  - label: Twitter
-    url: https://twitter.com/JacieMcHaney
   - label: CV
     url: JMcHaney_CV_2023.pdf  #my CV
   - label: Email
@@ -23,7 +21,9 @@ output:
 
 I am a Research Assistant Professor at Northwestern University. I received my PhD in Communication Science and Disorders from the University of Pittsburgh.
 
-My research focuses on the neurobiology and plasticity underlying speech processing using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. My long term research goal is to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
+My research focuses on the neurobiology and plasticity underlying speech processing using neurophysiological and cognitive computational neuroscience approaches. My research goals are to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
+
+You can find me on [Bluesky](https://bsky.app/profile/jaciemchaney.bsky.social) and [X](https://twitter.com/JacieMcHaney).
 
 
 ## Education
