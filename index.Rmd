@@ -1,7 +1,7 @@
 ---
 title: "Jacie R. McHaney, PhD"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  More information about Jacie McHaney
 site: distill::distill_website
 image: "images/McHaney_Jacie_Headshot_cropped.jpg" #profile pic
 links:
@@ -9,6 +9,8 @@ links:
     url: https://scholar.google.com/citations?user=Gv2ZiSgAAAAJ&hl=en&authuser=1
   - label: Research Gate
     url: https://www.researchgate.net/profile/Jacie-Mchaney-2
+  - label: Linkedin
+    url: https://www.linkedin.com/in/jacie-mchaney-44843b194/
   - label: CV
     url: JMcHaney_CV_2023.pdf  #my CV
   - label: Email
@@ -19,9 +21,11 @@ output:
 
 ## Bio
 
-I am a Research Assistant Professor at Northwestern University. I received my PhD in Communication Science and Disorders from the University of Pittsburgh.
+I am a Research Assistant Professor at Northwestern University studying auditory neuroscience. I received my PhD in Communication Science and Disorders from the University of Pittsburgh.
 
-My research focuses on the neurobiology and plasticity underlying speech processing using neurophysiological and cognitive computational neuroscience approaches. My research goals are to develop neurobiologically-informed rehabilitative approaches for speech perception in noise difficulties. My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
+My research focuses on the neurobiology and plasticity underlying speech processing using neurophysiological and cognitive computational neuroscience approaches. My research goals are to develop neurobiologically-informed rehabilitative approaches for speech perception in noise challenges My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
+
+I have secured over $250,000 from the National Institutes of Health to investigate speech perception challenges in aging and in individuals who complain of speech perception difficulties but have clinically-normal hearing thresholds. I leverage audiological protocols, cutting-edge neurophysiological methods, and neurobiologically-grounded computational models to gain a better understanding of the source of speech perception challenges in the absence of overt hearing loss.
 
 You can find me on [Bluesky](https://bsky.app/profile/jaciemchaney.bsky.social) and [X](https://twitter.com/JacieMcHaney).
 
@@ -30,18 +34,22 @@ You can find me on [Bluesky](https://bsky.app/profile/jaciemchaney.bsky.social) 
 
 - **University of Pittsburgh** | Pittsburgh, PA
 
-  **PhD** in *Communication Science and Disorders* | 2023
+  **PhD,** Communication Science and Disorders, *Auditory Neuroscience* | 2023
 
 - **The University of Texas at Austin** | Austin, TX
 
-  **BS** in *Psychology* |  2015
+  **BS,** Psychology, *Biology Minor* |  2015
+
+- **Austin Community College** | Austin, TX
+
+  **AS,** General Studies in Science |  2015
 
 
 ## Funding
 
 - **NRSA Individual Predoctoral Fellowship to Promote Diversity in Health-Related Research**
 
-  May 2022 - April 2023 | $48,536
+  May 2022 - April 2023 | $145,608
 
   NIH-NIDCD | F31DC020085 - *Neural Mechanisms of Speech Perception in Noise in Middle-Age*
 

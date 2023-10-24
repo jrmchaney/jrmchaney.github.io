@@ -15,6 +15,8 @@ d-title{
 
 **McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2023). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *Journal of Speech, Language, and Hearing Research, 60*(10), 3825-3843.
 
+Cancel, V. E.^ **, McHaney, J. R.**^, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports, 13*, 13636. (^co-lead authors).
+
 Lescht, E., Venker, C., **McHaney, J. R.,** Bohland, J., & Hampton Wray, A. (2022). Novel Word Recognition in Childhood Stuttering. *Topics in Language Disorders, 42*(1), 41-56.
 
 **McHaney, J. R.,** Tessmer, R., Roark, C. L., & Chandrasekaran, B. (2021). Working memory relates to individual differences in speech category learning: Insights from computational modeling and pupillometry. *Brain and Language, 222,* 105010.
