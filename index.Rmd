@@ -10,9 +10,9 @@ links:
   - label: Research Gate
     url: https://www.researchgate.net/profile/Jacie-Mchaney-2
   - label: Linkedin
-    url: https://www.linkedin.com/in/jacie-mchaney-44843b194/
+    url: https://www.linkedin.com/in/jacie-mchaney/
   - label: CV
-    url: JMcHaney_CV_2023.pdf  #my CV
+    url: JMcHaney_CV_2024.pdf  #my CV
   - label: Email
     url: "mailto:jacie.mchaney@northwestern.edu"
 output:
@@ -23,7 +23,7 @@ output:
 
 I am a Research Assistant Professor at Northwestern University studying auditory neuroscience. I received my PhD in Communication Science and Disorders from the University of Pittsburgh.
 
-My research focuses on the neurobiology and plasticity underlying speech processing using neurophysiological and cognitive computational neuroscience approaches. My research goals are to develop neurobiologically-informed rehabilitative approaches for speech perception in noise challenges My current research aims to develop a mechanistic understanding of the neurocognitive sources underlying individual differences in speech perception in noise in aging.
+My research focuses on the neurobiology and plasticity underlying speech processing using neurophysiological (EEG, pupillometry, peripheral nerve stimulation) and cognitive computational neuroscience approaches. My research goals are to develop neurobiologically-informed rehabilitative approaches for speech perception in noise challenges. My current research aims to develop a mechanistic understanding of the neural mechanisms underlying individual differences in speech perception in noise in aging.
 
 I have secured over $250,000 from the National Institutes of Health to investigate speech perception challenges in aging and in individuals who complain of speech perception difficulties but have clinically-normal hearing thresholds. I leverage audiological protocols, cutting-edge neurophysiological methods, and neurobiologically-grounded computational models to gain a better understanding of the source of speech perception challenges in the absence of overt hearing loss.
 
