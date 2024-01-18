@@ -19,6 +19,18 @@ output:
   postcards::trestles
 ---
 
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0208BTGWKG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0208BTGWKG');
+</script>
+</head>
+
 ## Bio
 
 I am a Research Assistant Professor at Northwestern University studying auditory neuroscience. I received my PhD in Communication Science and Disorders from the University of Pittsburgh.

@@ -1,8 +1,25 @@
 ---
-title: "About this site"
+title: "Research Areas"
 description: |
-  Some additional details about the website
+  More information on my areas of research
+site: distill::distill_website
+output:
+  postcards::trestles
 ---
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0208BTGWKG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0208BTGWKG');
+</script>
+</head>
+
+## Coming Soon!
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
