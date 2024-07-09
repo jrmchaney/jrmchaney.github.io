@@ -19,7 +19,58 @@ output:
 </script>
 </head>
 
-## Coming Soon!
+## Research Areas
+
+Over the last decade, I have collaborated on myriad projects and led many as well. Below, you'll find a synopsis of these projects and my contributions.
+
+<details>
+    <summary><h4> Neural Mechanisms of Speech Perception in Aging </h4></summary>
+    <p>Speech perception in noise becomes increasingly difficult with age. Even with normal hearing sensitivity, older adults can vary widely in speech perception performance. Often times speech perception difficulties become prominent in middle-age (~40-55 years) when hearing thresholds are still considered within clinically normal limits. A significant contribution of my research has focused on the individual differences underlying speech processing in middle-aged and older adults while considering contributions from audibility and cognition. I used a combination of neurophysiological, computational, and machine learning methods to examine how the neural mechanisms of speech perception change with age.
+
+During my PhD studies, I was awarded a $145,000 fellowship from the National Institutes of Health to investigate speech perceptoin in noise in middle-aged adults. This line of work has resulted in several publications and conference presentations:
+
+1. McHaney, J. R., Gnanateja, G. N., Smayda, K. E., Zinszer, B. D., & Chandrasekaran, B. (2021). Cortical Tracking of Speech in Delta Band Relates to Individual Differences in Speech in Noise Comprehension in Older Adults. Ear and Hearing, 42(2), 343-354.
+
+2. Cancel, V. E.*, McHaney, J. R.*, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. Scientific Reports, 13, 13636. (*co-first authors).
+
+3. McHaney, J. R., Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2023). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. bioRxiv. doi: 10.1101/2023.08.13.553131.
+
+4. Smayda, K. E, McHaney, J. R., & Chandrasekaran, B. (May 2017). Music Training for the Enhancement of Speech-In-Noise Processing in Older Adults. Poster presented at the Texas Leadership Luncheon, Austin, TX.
+
+5. McHaney, J. R., Zinszer, B. D., Smayda, K. E., & Chandrasekaran, B. (March 2018). Effect of listening environment on cortical entrainment to continuous speech in older adults. Poster presented at the Cognitive Neuroscience Society 25th Annual Meeting, Boston, MA.
+
+6. McHaney, J. R., Zinszer, B. D., Smayda, K. E., Xie, Z., & Chandrasekaran, B. (December 2018). Cortical entrainment to the speech envelope relates to speech comprehension in older adults under adverse listening conditions. Poster presented at the 12th Annual Aging Institute Research Day, Pittsburgh, PA.
+
+7. Cancel, V. E., McHaney, J. R., Milne, V., Palmer, C., & Parthasarathy, A. (April 2022). Hearing Difficulties with Normal Audiograms: Insights from the ADP Test Battery. Poster presented at the American Academy of Audiology 2022 + HearTECH Expo, St. Louis, MO. Received the James and Susan Jerger Award for Excellence in Student Research, American Academy of Audiology Foundation.
+
+8. McHaney, J. R., Yurasits, K., Hancock, K. E., Polley, D. B., & Parthasarathy, A. (July 2022). Neurophysiological markers of central gain and their relationship to speech-in-noise intelligibility in normal-hearing listeners. Poster presented at the Auditory System Gordon Research Conference: Preventing Loss and Recovering Function of the Auditory System, Smithfield, RI.
+
+9. McHaney, J. R., Zhen, L., Anthony, S., Xie, Z., Parthasarathy, A., & Chandrasekaran, B. (February 2023). Deficits in Sensory Decision-Making Underlie Self-Perceived Hearing Difficulties. Talk presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+
+10. Zhen, L. Q., McHaney, J. R., Zink, M. E., Mitchell, C., Parida, S., Anthony, S., Hallihan, M., Brown, C. A., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Age-related Differences in Neural and Perceptual Signatures of Temporal Fine Structure Processing Underlying Muti-talker Speech Intelligibility. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+
+11. Zink, M. E., McHaney, J. R., Mitchell, C., Hallihan, M., Anthony, S., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Neurophysiological Markers of Sensory Gain and Their Relationship to Speech Perception in Noise in Young and Middle-Aged Adults. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
+
+12. Mitchell, C., Zink, M. E., McHaney, J. R., Anthony, S., Hallihan, M., Chandrasekaran, B., & Parthasarathy, A. (April 2023). Relationship between altered auditory temporal processing and speech perception in noise in young and middle-aged adults. Poster to be presented at the American Academy of Audiology 2023 + HearTECH Expo, Seattle, WA.
+
+13. Yurasits, K., Zhen, L. Q., Parida, S., Klara, J., McHaney, J. R., Cancel, V., Zink, M. E., Mitchell, C., Chandrasekaran, B., & Parthasarathy, A. (April 2023). Age-related changes in the representation of stimulus temporal fine structure cues and their relationship to multi-talker speech intelligibility. Poster to be presented at the American Academy of Audiology 2023 + HearTECH Expo, Seattle, WA. Received the James and Susan Jerger Award for Excellence in Student Research, American Academy of Audiology Foundation.
+
+14. McHaney, J. R., Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (June 2024). Reduced temporal processing of fundamental frequency in middle-age impacts higher-level linguistic features for speech perception. Poster to be presented at the 2024 Frequency Following Response Workshop, Chicago, IL.
+
+15. Guo, Z., McHaney, J. R., Xiong, S., Chandrasekaran, B., & Parthasarathy, A. (June 2024). Decoding single-trial frequency-following responses to speech using an animal model. Poster to be presented at the 2024 Frequency Following Response Workshop, Chicago, IL.</p>
+    </details>
+
+<details>
+    <summary><h4>Biological Markers of Speech Learning and Plasticity</h4></summary>
+    <p>Coming Soon!</p>
+    </details>
+
+<details>
+    <summary><h4>Computational Approaches to Understand Top-Down Control in Speech Perception</h4></summary>
+    <p>Coming Soon!</p>
+    </details>
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
