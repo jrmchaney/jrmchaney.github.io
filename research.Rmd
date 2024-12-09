@@ -5,7 +5,7 @@ description: |
 site: distill::distill_website
 ---
 
-```{r}
+```{r, include = FALSE}
 #<head>
 #<!-- Google tag (gtag.js) -->
 #<script async src="https://www.googletagmanager.com/gtag/js?id=G-0208BTGWKG"></script>
