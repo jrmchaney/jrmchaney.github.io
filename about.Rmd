@@ -7,67 +7,87 @@ output:
   postcards::trestles
 ---
 
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0208BTGWKG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+```{r}
+#<head>
+#<!-- Google tag (gtag.js) -->
+#<script async src="https://www.googletagmanager.com/gtag/js?id=G-0208BTGWKG"></script>
+#<script>
+ # window.dataLayer = window.dataLayer || [];
+#  function gtag(){dataLayer.push(arguments);}
+#  gtag('js', new Date());
 
-  gtag('config', 'G-0208BTGWKG');
-</script>
-</head>
+ # gtag('config', 'G-0208BTGWKG');
+#</script>
+#</head>
+```
 
 ## Research Areas
 
-Over the last decade, I have collaborated on myriad projects and led many as well. Below, you'll find a synopsis of these projects and my contributions.
+Over the last decade, I have led and collaborated on myriad projects. Below, you'll find a synopsis of these projects and my contributions.
 
 <details>
     <summary><h4> Neural Mechanisms of Speech Perception in Aging </h4></summary>
     <p>Speech perception in noise becomes increasingly difficult with age. Even with normal hearing sensitivity, older adults can vary widely in speech perception performance. Often times speech perception difficulties become prominent in middle-age (~40-55 years) when hearing thresholds are still considered within clinically normal limits. A significant contribution of my research has focused on the individual differences underlying speech processing in middle-aged and older adults while considering contributions from audibility and cognition. I used a combination of neurophysiological, computational, and machine learning methods to examine how the neural mechanisms of speech perception change with age.
 
-During my PhD studies, I was awarded a $145,000 fellowship from the National Institutes of Health to investigate speech perceptoin in noise in middle-aged adults. This line of work has resulted in several publications and conference presentations:
+During my PhD studies, I was awarded a $145,000 fellowship from the National Institutes of Health to promote diversity in biomedical research to investigate speech perceptoin in noise in middle-aged adults. This line of work has resulted in several publications:
 
-1. McHaney, J. R., Gnanateja, G. N., Smayda, K. E., Zinszer, B. D., & Chandrasekaran, B. (2021). Cortical Tracking of Speech in Delta Band Relates to Individual Differences in Speech in Noise Comprehension in Older Adults. Ear and Hearing, 42(2), 343-354.
+1. McHaney, J. R., Gnanateja, G. N., Smayda, K. E., Zinszer, B. D., & Chandrasekaran, B. (2021). Cortical Tracking of Speech in Delta Band Relates to Individual Differences in Speech in Noise Comprehension in Older Adults. *Ear and Hearing*, 42(2), 343-354.
 
-2. Cancel, V. E.*, McHaney, J. R.*, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. Scientific Reports, 13, 13636. (*co-first authors).
+2. Cancel, V. E.^, **McHaney, J. R.^**, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports*, 13, 13636. (^co-first authors).
 
-3. McHaney, J. R., Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2023). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. bioRxiv. doi: 10.1101/2023.08.13.553131.
+3. Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. (^co-first authors).
 
-4. Smayda, K. E, McHaney, J. R., & Chandrasekaran, B. (May 2017). Music Training for the Enhancement of Speech-In-Noise Processing in Older Adults. Poster presented at the Texas Leadership Luncheon, Austin, TX.
+4. **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (accepted). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports.*
 
-5. McHaney, J. R., Zinszer, B. D., Smayda, K. E., & Chandrasekaran, B. (March 2018). Effect of listening environment on cortical entrainment to continuous speech in older adults. Poster presented at the Cognitive Neuroscience Society 25th Annual Meeting, Boston, MA.
-
-6. McHaney, J. R., Zinszer, B. D., Smayda, K. E., Xie, Z., & Chandrasekaran, B. (December 2018). Cortical entrainment to the speech envelope relates to speech comprehension in older adults under adverse listening conditions. Poster presented at the 12th Annual Aging Institute Research Day, Pittsburgh, PA.
-
-7. Cancel, V. E., McHaney, J. R., Milne, V., Palmer, C., & Parthasarathy, A. (April 2022). Hearing Difficulties with Normal Audiograms: Insights from the ADP Test Battery. Poster presented at the American Academy of Audiology 2022 + HearTECH Expo, St. Louis, MO. Received the James and Susan Jerger Award for Excellence in Student Research, American Academy of Audiology Foundation.
-
-8. McHaney, J. R., Yurasits, K., Hancock, K. E., Polley, D. B., & Parthasarathy, A. (July 2022). Neurophysiological markers of central gain and their relationship to speech-in-noise intelligibility in normal-hearing listeners. Poster presented at the Auditory System Gordon Research Conference: Preventing Loss and Recovering Function of the Auditory System, Smithfield, RI.
-
-9. McHaney, J. R., Zhen, L., Anthony, S., Xie, Z., Parthasarathy, A., & Chandrasekaran, B. (February 2023). Deficits in Sensory Decision-Making Underlie Self-Perceived Hearing Difficulties. Talk presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
-
-10. Zhen, L. Q., McHaney, J. R., Zink, M. E., Mitchell, C., Parida, S., Anthony, S., Hallihan, M., Brown, C. A., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Age-related Differences in Neural and Perceptual Signatures of Temporal Fine Structure Processing Underlying Muti-talker Speech Intelligibility. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
-
-11. Zink, M. E., McHaney, J. R., Mitchell, C., Hallihan, M., Anthony, S., Chandrasekaran, B., & Parthasarathy, A. (February 2023). Neurophysiological Markers of Sensory Gain and Their Relationship to Speech Perception in Noise in Young and Middle-Aged Adults. Poster to be presented at the Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL.
-
-12. Mitchell, C., Zink, M. E., McHaney, J. R., Anthony, S., Hallihan, M., Chandrasekaran, B., & Parthasarathy, A. (April 2023). Relationship between altered auditory temporal processing and speech perception in noise in young and middle-aged adults. Poster to be presented at the American Academy of Audiology 2023 + HearTECH Expo, Seattle, WA.
-
-13. Yurasits, K., Zhen, L. Q., Parida, S., Klara, J., McHaney, J. R., Cancel, V., Zink, M. E., Mitchell, C., Chandrasekaran, B., & Parthasarathy, A. (April 2023). Age-related changes in the representation of stimulus temporal fine structure cues and their relationship to multi-talker speech intelligibility. Poster to be presented at the American Academy of Audiology 2023 + HearTECH Expo, Seattle, WA. Received the James and Susan Jerger Award for Excellence in Student Research, American Academy of Audiology Foundation.
-
-14. McHaney, J. R., Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (June 2024). Reduced temporal processing of fundamental frequency in middle-age impacts higher-level linguistic features for speech perception. Poster to be presented at the 2024 Frequency Following Response Workshop, Chicago, IL.
-
-15. Guo, Z., McHaney, J. R., Xiong, S., Chandrasekaran, B., & Parthasarathy, A. (June 2024). Decoding single-trial frequency-following responses to speech using an animal model. Poster to be presented at the 2024 Frequency Following Response Workshop, Chicago, IL.</p>
+</p>
     </details>
 
 <details>
-    <summary><h4>Biological Markers of Speech Learning and Plasticity</h4></summary>
-    <p>Coming Soon!</p>
+    <summary><h4>Cognitive-Decisional Strategies Underlying Speech Perception</h4></summary>
+    <p>With increasing age, difficulties in speech perception in noise are associated with increased activity in a compensatory network of frontal-motor regions involved in cognitive-decisional processes and reduced activity in core auditory sensory-perceptual network. In additions with increasing age, some adults tend to compensate for the noisy core auditory network activity by increasing the reliance on supportive visual or lexical-semantic contextual cues. Thus, when listening to speech stimuli in noise, younger adults rely on clear and stable (bottom-up) speech representations in auditory regions and older adults tend to leverage higher-level (top-down) compensatory mechanisms that require additional working memory and cognitive resources. While neuroimaging methodologies have the potential to identify compensatory network changes, these methods are not a scalable solution – they are difficult to deploy in audiology clinics and are cost prohibitive. This line of work aims to understand the sensory-cognitive deficits that drive speech perceptual challenges under different listening conditions in younger and middle-aged adults. The overarching goal is to develop behavioral-based assessments of underlying sensory-cognitive computational processes during speech perception in noise that can complement clinical audiology, inform rehabilitation approaches and counseling, and serve as biomarkers of targeted rehabilitation.
+    
+Associated References:
+
+1. **McHaney, J. R.**, Roark, C. L., McGinley, M. J., & Chandrasekaran, B. (2024). Combining pupillometry and drift-diffusion models reveals auditory category learning dynamics. *bioRxiv* (in revision). doi: 10.1101/2024.04.16.589753
+
+2. **McHaney, J. R.** (2023). *Sensory and Cognitive Factors Underlying Self-Perceived Listening Difficulties in Adults with Normal Hearing Thresholds* (Doctoral dissertation, University of Pittsburgh).
+
+3. Roark, C. L., Paulon, G., Rebaudo, G., **McHaney, J. R.**, Sarkar, A., & Chandrasekaran, B. (2024). Individual differences in working memory impact the trajectory of non-native speech category learning. *PLOS ONE*, 19(6), e0297917.
+
+4. Mukhopadhyay, M., **McHaney, J. R.**, Chandrasekaran, B., & Sarkar, A. (2024). Bayesian semiparametric longitudinal inverse-probit mixed models for category learning. *Psychometrika*, 1-25.
+</p>
     </details>
 
 <details>
-    <summary><h4>Computational Approaches to Understand Top-Down Control in Speech Perception</h4></summary>
-    <p>Coming Soon!</p>
+    <summary><h4>Biological Markers of Speech Processing and Plasticity</h4></summary>
+    <p>A significant challenge in speech perception is the process of categorizing speech sounds into discrete classes. Despite this challenge, speech categorization is rapid and automatic for native speech sounds. However, learning novel speech categories in adulthood is substantially more effortful and challenging. The aim of this line of work is two-fold: 1) examine the neural mechanisms underlying novel speech sound categorization and 2) examine interventions for enhancing plasticity to novel speech categories in adulthood.
+
+Associated References:
+
+1. **McHaney, J. R.**, Tessmer, R., Roark, C. L., & Chandrasekaran, B. (2021). Working memory relates to individual differences in speech category learning: Insights from computational modeling and pupillometry. *Brain and Language*, 222, 105010. 
+
+2. Llanos, F., **McHaney, J. R.**, Schuerman, W. L., Yi, H. G., Leonard, M. K., & Chandrasekaran, B. (2020). Non-invasive peripheral nerve stimulation selectively enhances speech category learning in adults. *npj Science of Learning*, 5(1), 1-11.
+
+3. **McHaney, J. R.**, Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2023). Transcutaneous vagus nerve stimulation modulates pupillary responses during non-native speech category learning. *Journal of Speech, Language, and Hearing Research*, 66(10), 3825-3843.
+
+4. **McHaney, J. R.**, Roark, C. L., McGinley, M. J., & Chandrasekaran, B. (2024). Combining pupillometry and drift-diffusion models reveals auditory category learning dynamics. *bioRxiv* (in revision). doi: 10.1101/2024.04.16.589753.
+
+</p>
+    </details>
+    
+<details>
+    <summary><h4>Diagnostic Tests of Speech Perception Challenges in Adults with Normal Hearing</h4></summary>
+    <p>Hearing loss is a significant issue impacting 1.5 billion people worldwide. However, traditional diagnostic methods like the audiogram often miss a critical subset of the population, ~10% of adults, who experience difficulties in understanding speech despite having normal hearing on the gold standard audiogram. This line of work aims to address the unmet need by developing new, non-invasive diagnostic tools that can detect the sources of speech perception difficulties in adults with normal hearing.
+    
+Associated References:
+
+1.	Cancel, V. E.^, **McHaney, J. R.^**, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. Scientific Reports, 13, 13636. (^co-first authors).
+2.	Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. (^co-first authors)
+3.	Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., & Chandrasekaran, B. (2024). Reduced neural distinctiveness of speech representations in the middle-aged brain. *bioRxiv* (in review). doi: 10.1101/2024.08.28.609778. (^co-first authors).
+4.	**McHaney, J. R.** (2023). *Sensory and Cognitive Factors Underlying Self-Perceived Listening Difficulties in Adults with Normal Hearing Thresholds* (Doctoral dissertation, University of Pittsburgh).
+
+    
+</p>
     </details>
 
 
