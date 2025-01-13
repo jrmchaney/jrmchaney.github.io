@@ -12,7 +12,7 @@ links:
   - label: Linkedin
     url: https://www.linkedin.com/in/jacie-mchaney/
   - label: CV
-    url: JMcHaney_CV_2024.pdf  #my CV
+    url: JMcHaney_CV_2025.pdf  #my CV
   - label: Email
     url: "mailto:jacie.mchaney@northwestern.edu"
 output:

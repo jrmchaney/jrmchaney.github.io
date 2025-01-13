@@ -39,7 +39,7 @@ Below you will find a list of my scholarly work. For quick access, please use on
 
 ***Peer-reviewed***
 
-**McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (accepted). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports.*
+**McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
 
 Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. (^co-first authors).
 
