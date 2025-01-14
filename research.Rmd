@@ -45,7 +45,7 @@ Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V
 
 Roark, C. L, Paulon, G., Rebaudo, G., **McHaney, J. R.,** Sarkar, A., & Chandrasekaran, B.(2024). Individual differences in working memory impact the trajectory of non-native speech category learning. *PLOS ONE, 19*(6), e0297917.
 
-Mukhopadhyay, M., **McHaney, J. R.,**, Chandrasekaran, B., Sarkar, A. (in press). Bayesian Semiparametric Longitudinal Inverse-Probit Mixed Models for Category Learning. *Psychometrika, 89*, 461-485.
+Mukhopadhyay, M., **McHaney, J. R.,**, Chandrasekaran, B., Sarkar, A. (2024). Bayesian Semiparametric Longitudinal Inverse-Probit Mixed Models for Category Learning. *Psychometrika, 89*, 461-485.
 
 **McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2023). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *Journal of Speech, Language, and Hearing Research, 60*(10), 3825-3843.
 
