@@ -37,7 +37,9 @@ During my PhD studies, I was awarded a $145,000 fellowship from the National Ins
 
 3. Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. (^co-first authors).
 
-4. **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (accepted). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports.*
+4. **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
+
+5. Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (accepted). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language*. (^co-first authors).
 
 </p>
     </details>
@@ -82,8 +84,11 @@ Associated References:
 Associated References:
 
 1.	Cancel, V. E.^, **McHaney, J. R.^**, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. Scientific Reports, 13, 13636. (^co-first authors).
+
 2.	Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. (^co-first authors)
-3.	Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., & Chandrasekaran, B. (2024). Reduced neural distinctiveness of speech representations in the middle-aged brain. *bioRxiv* (in review). doi: 10.1101/2024.08.28.609778. (^co-first authors).
+
+5. Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (accepted). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language*. (^co-first authors).
+
 4.	**McHaney, J. R.** (2023). *Sensory and Cognitive Factors Underlying Self-Perceived Listening Difficulties in Adults with Normal Hearing Thresholds* (Doctoral dissertation, University of Pittsburgh).
 
     

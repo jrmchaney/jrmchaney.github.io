@@ -39,6 +39,8 @@ Below you will find a list of my scholarly work. For quick access, please use on
 
 ***Peer-reviewed***
 
+Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (accepted). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language*. ***(^co-first authors)***.
+
 **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
 
 Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. ***(^co-first authors)***.
@@ -65,8 +67,6 @@ Koski, J. E., **McHaney, J. R.,**, Rigney, A. E., & Beer, J. S. (2020). Recondsi
 ## Archived Preprints
 
 **McHaney, J. R.,** Roark, C. L., McGinley, M. J., & Chandrasekaran, B. (2024). Combining pupillometry and drift-diffusion models reveals auditory category learning dynamics. *bioRxiv*. doi: <https://doi.org/10.1101/2024.04.16.589753>.
-
-Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., & Chandrasekaran, B. (2024). Reduced neural distinctiveness of speech representations in the middle-aged brain. *bioRxiv* (in review). doi: 10.1101/2024.08.28.609778. (^co-first authors).
 
 
 ## Presentations
