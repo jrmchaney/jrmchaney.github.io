@@ -39,11 +39,11 @@ Below you will find a list of my scholarly work. For quick access, please use on
 
 ***Peer-reviewed***
 
-Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (accepted). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language*. ***(^co-first authors)***.
+Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. ***(^co-first authors)***.
+
+Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. ***(^co-first authors)***.
 
 **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
-
-Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2024). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife*, 13:RP102823. ***(^co-first authors)***.
 
 Roark, C. L, Paulon, G., Rebaudo, G., **McHaney, J. R.,** Sarkar, A., & Chandrasekaran, B.(2024). Individual differences in working memory impact the trajectory of non-native speech category learning. *PLOS ONE, 19*(6), e0297917.
 
@@ -71,36 +71,23 @@ Koski, J. E., **McHaney, J. R.,**, Rigney, A. E., & Beer, J. S. (2020). Recondsi
 
 ## Presentations
 
-Parker, A., **McHaney, J. R.**, Coleman, B., Chandrasekaran, B., & Hampton Wray, A. (May 2025). Language
-Skills Relate to Neural Tracking of Continuous Speech-on-Speech in Children. Poster abstract submitted
-for consideration to the Society for Research in Child Development 2025 Biennial Meeting, Minneapolis,
+Parker, A., **McHaney, J. R.**, Chandrasekaran, B., & Hampton Wray, A. Neural Tracking of Continuous Speech-in-Noise in Children Who Stutter. Poster to be presented at the 2025 American Speech-Language-Hearing Association Convention, Washington, DC.
+
+Parker, A., **McHaney, J. R.**, Coleman, B., Chandrasekaran, B., & Hampton Wray, A. (May 2025). Language Skills Relate to Neural Tracking of Continuous Speech-on-Speech in Children. Poster presented at the Society for Research in Child Development 2025 Biennial Meeting, Minneapolis,
 MN.
 
-Parker, A., **McHaney, J. R.**, Xie, Z., Chandrasekaran, B., & Hampton Wray, A. (December 2024).
-Developmental and Individual Differences in Red Tracking of Speech-on-Speech. Poster presented at
+Parker, A., **McHaney, J. R.**, Xie, Z., Chandrasekaran, B., & Hampton Wray, A. (December 2024). Developmental and Individual Differences in Red Tracking of Speech-on-Speech. Poster presented at
 the 2024 American Speech-Language-Hearing Association Convention, Seattle, WA.
 
-Parker, A., **McHaney, J. R.**, Coleman, B., Block, A., Chandrasekaran, B., & Hampton Wray, A. (October
-2024). Receptive Language Proficiency Impacts Cortical Tracking of Continuous Speech in Noise in
-Children. Poster to be presented at the Sixteenth Annual Meeting of the Society for Neurobiology of
-Language, Brisbane, Australia.
+Parker, A., **McHaney, J. R.**, Coleman, B., Block, A., Chandrasekaran, B., & Hampton Wray, A. (October 2024). Receptive Language Proficiency Impacts Cortical Tracking of Continuous Speech in Noise in Children. Poster to be presented at the Sixteenth Annual Meeting of the Society for Neurobiology of Language, Brisbane, Australia.
 
-Choi, J. Y., Xiong, S., **McHaney, J. R.**, & Chandrasekaran, B. (October 2024). Pupillary measures of
-identifying talkers in native language and unfamiliar language. Poster presented at the Advances and
-Perspectives in Auditory Neuroscience Annual Meeting, Chicago, IL.
+Choi, J. Y., Xiong, S., **McHaney, J. R.**, & Chandrasekaran, B. (October 2024). Pupillary measures of identifying talkers in native language and unfamiliar language. Poster presented at the Advances and Perspectives in Auditory Neuroscience Annual Meeting, Chicago, IL.
 
-Guo, Z., **McHaney, J. R.**, Xie, Z., & Chandrasekaran, B. (October 2024). Reduced neural encoding of
-phonemes in middle-aged adults. Poster presented at the Advances and Perspectives in Auditory
-Neuroscience Annual Meeting, Chicago, IL.
+Guo, Z., **McHaney, J. R.**, Xie, Z., & Chandrasekaran, B. (October 2024). Reduced neural encoding of phonemes in middle-aged adults. Poster presented at the Advances and Perspectives in Auditory Neuroscience Annual Meeting, Chicago, IL.
 
-**McHaney, J. R.**, Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (October 2024).
-Reduced temporal processing of fundamental frequency in middle-age impacts higher-level linguistic
-features for speech perception. Poster presented at the Advances and Perspectives in Auditory
-Neuroscience Annual Meeting, Chicago, IL.
+**McHaney, J. R.**, Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (October 2024). Reduced temporal processing of fundamental frequency in middle-age impacts higher-level linguistic features for speech perception. Poster presented at the Advances and Perspectives in Auditory Neuroscience Annual Meeting, Chicago, IL.
 
-Guo, Z., **McHaney, J. R.**, Xiong, S., Chandrasekaran, B., & Parthasarathy, A. (June 2024). Decoding single-
-trial frequency-following responses to speech using an animal model. Poster presented at the 2024
-Frequency Following Response Workshop, Chicago, IL.
+Guo, Z., **McHaney, J. R.**, Xiong, S., Chandrasekaran, B., & Parthasarathy, A. (June 2024). Decoding single-trial frequency-following responses to speech using an animal model. Poster presented at the 2024 Frequency Following Response Workshop, Chicago, IL.
 
 Parker, A., **McHaney, J. R.,** Coleman, B., Chandrasekaran, B., & Hampton Wray, A. (November 2023). Phonological Awareness and the Impact of Noise Level on Speech Perception. Poster to be presented at the 2023 American Speech-Language-Hearing Association Convention, Boston, MA.
 
