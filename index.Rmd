@@ -6,7 +6,7 @@ site: distill::distill_website
 image: "images/McHaney_headshot_small.png" #profile pic
 links:
   - label: Google Scholar
-    url: https://scholar.google.com/citations?user=Gv2ZiSgAAAAJ&hl=en&authuser=1
+    url: https://scholar.google.com/citations?user=Gv2ZiSgAAAAJ&hl=en
   - label: Research Gate
     url: https://www.researchgate.net/profile/Jacie-Mchaney-2
   - label: Linkedin
@@ -38,7 +38,7 @@ I am a Research Assistant Professor at Northwestern University. Prior to joining
 
 My research program focuses on the neural mechanisms underlying speech processing challenges using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. I combine my background in psychology and cognitive neuroscience with my training in neuroscience, audiology, and clinical translational sciences to answer questions about the neurobiology underlying difficulties with speech perception in noisy environments. My long-term research goal is to develop neurobiologically informed rehabilitative and individualized approaches for speech perception in noise difficulties in adults with subclinical hearing loss.
 
-I have secured over $1.1 million in funding, with the majority to investigate speech perception challenges in aging and in individuals who complain of speech perception difficulties but have clinically-normal hearing thresholds. 
+I have secured over $1 million in funding, with the majority to investigate speech perception challenges in aging and in individuals who complain of speech perception difficulties but have clinically-normal hearing thresholds. 
 
 In my spare time, you'll find me outdoors with my husband, kids, and dog, no matter the season!
 
@@ -47,11 +47,11 @@ In my spare time, you'll find me outdoors with my husband, kids, and dog, no mat
 
 - **University of Pittsburgh** | Pittsburgh, PA
 <br>
-**PhD,** Communication Science and Disorders, *Computational Cognitive and Auditory Neuroscience* 
+**PhD,** Communication Science and Disorders
 
 - **The University of Texas at Austin** | Austin, TX
 <br>
-**BS,** Psychology, *Biology Minor*
+**BS,** Psychology
 
 - **Austin Community College** | Austin, TX
 <br>
