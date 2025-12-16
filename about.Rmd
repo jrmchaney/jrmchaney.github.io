@@ -37,13 +37,13 @@ During my PhD studies, I was awarded a $145,000 fellowship from the National Ins
 
 1. **McHaney, J. R.**, Gnanateja, G. N., Smayda, K. E., Zinszer, B. D., & Chandrasekaran, B. (2021). Cortical Tracking of Speech in Delta Band Relates to Individual Differences in Speech in Noise Comprehension in Older Adults. *Ear and Hearing*, 42(2), 343-354.
 
-2. Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language*. (^co-first authors).
+2. **McHaney, J. R.^**, Guo, Z.^, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language*. (^co-first authors).
 
-3. Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. (^co-first authors).
+3. **McHaney, J. R.^**, Zink, M. E.^, Zhen, L.^, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. (^co-first authors).
 
 4. **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
 
-5. Cancel, V. E.^, **McHaney, J. R.^**, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports*, 13, 13636. (^co-first authors).
+5. **McHaney, J. R.^**, Cancel, V. E.^, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports*, 13, 13636. (^co-first authors).
 
 </p>
     </details>
@@ -63,11 +63,11 @@ Associated References:
 
 3. **McHaney, J. R.**, Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2023). Transcutaneous vagus nerve stimulation modulates pupillary responses during non-native speech category learning. *Journal of Speech, Language, and Hearing Research, 66*(10), 3825-3843.
 
-4. Cancel, V. E.^, **McHaney, J. R.**, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports, 13*, 13636. (^co-first authors).
+4. **McHaney, J. R.**, Cancel, V. E.^, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports, 13*, 13636. (^co-first authors).
 
-5. Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. (^co-first authors).
+5. **McHaney, J. R.^**, Guo, Z.^, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. (^co-first authors).
 
-6. **McHaney, J. R.**, Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (revisions in review). Neural Coding of Fundamental Frequency and Processing of Discrete Pitch Accents in Middle-age.
+6. **McHaney, J. R.**, Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (2025). Neural Coding of Fundamental Frequency and Processing of Discrete Pitch Accents in Middle-age.*European Journal of Neuroscience, 62*(9), e70285.
 
     
 </p>

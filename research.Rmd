@@ -39,9 +39,11 @@ Below you will find a list of my scholarly work. For quick access, please use on
 
 ***Peer-reviewed***
 
-Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. ***(^co-first authors)***.
+**McHaney, J. R.**, Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (2025). Neural Coding of Fundamental Frequency and Processing of Discrete Pitch Accents in Middle Age. *European Journal of Neuroscience, 62*(9), e70285.
 
-Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. ***(^co-first authors)***.
+**McHaney, J. R.^**, Guo, Z.^, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. ***(^co-first authors)***.
+
+**McHaney, J. R.^**, Zink, M. E.^, Zhen, L.^, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. ***(^co-first authors)***.
 
 **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
 
@@ -66,12 +68,16 @@ Koski, J. E., **McHaney, J. R.,**, Rigney, A. E., & Beer, J. S. (2020). Recondsi
 
 ## Archived Preprints
 
+Zhen, L., Parida, S., **McHaney, J. R.**, Zink, M., Chandrasekaran, B., & Parthasarathy, A. (2025). Degraded neural coding of temporal fine structure with age predicts effortful listening in multi-talker environments. *bioRxiv*. doi: <https://doi.org/10.1101/2025.11.17.688858>.
+
 **McHaney, J. R.,** Roark, C. L., McGinley, M. J., & Chandrasekaran, B. (2024). Combining pupillometry and drift-diffusion models reveals auditory category learning dynamics. *bioRxiv*. doi: <https://doi.org/10.1101/2024.04.16.589753>.
 
 
 ## Presentations
 
-Parker, A., **McHaney, J. R.**, Chandrasekaran, B., & Hampton Wray, A. Neural Tracking of Continuous Speech-in-Noise in Children Who Stutter. Poster to be presented at the 2025 American Speech-Language-Hearing Association Convention, Washington, DC.
+**McHaney, J. R.**, Parthasarathy, A., & Chandrasekaran, B. (February 2026). Phoneme-level Processing Deficits Reveal Speech Perception Challenges in Middle-age. New Investigator Podium Presentation at the 2026 Scientific and Technology Conference of the American Auditory Society, Scottsdale, AZ.
+
+Parker, A., **McHaney, J. R.**, Chandrasekaran, B., & Hampton Wray, A. Neural Tracking of Continuous Speech-in-Noise in Children Who Stutter. Poster presented at the 2025 American Speech-Language-Hearing Association Convention, Washington, DC.
 
 Parker, A., **McHaney, J. R.**, Coleman, B., Chandrasekaran, B., & Hampton Wray, A. (May 2025). Language Skills Relate to Neural Tracking of Continuous Speech-on-Speech in Children. Poster presented at the Society for Research in Child Development 2025 Biennial Meeting, Minneapolis,
 MN.
@@ -130,6 +136,8 @@ Smayda, K. E, **McHaney, J. R.,** & Chandrasekaran, B. (May 2017). Music Trainin
 Koski, J. E., **Richardson, J. B.,** Rigney, A. E., & Beer, J. S. (April 2016). Too much information or warm fuzzy feelings? Understanding the role of MPFC in processing the self versus others. Poster presented at the Social and Affective Neuroscience (SANS) Annual Meeting, New York, NY. (Last name changed from Richardson to McHaney in 2017).
 
 ## Press
+
+Northwestern Now. (2025). Second round of Ryan Family Research Acceleration Fund awards more than $2 million to Northwestern scientists. [press release]. Retrieved from [https://news.northwestern.edu/stories/2025/01/second-round-of-ryan-family-research-acceleration-fund-awards-more-than-2-million-to-northwestern-scientists](https://news.northwestern.edu/stories/2025/01/second-round-of-ryan-family-research-acceleration-fund-awards-more-than-2-million-to-northwestern-scientists).
 
 Science Daily. (2020). Non-invasive nerve stimulation boosts learning of foreign language sounds. [press release]. Retrieved from [https://www.sciencedaily.com/releases/2020/08/200806092437.htm](https://www.sciencedaily.com/releases/2020/08/200806092437.htm)
 
