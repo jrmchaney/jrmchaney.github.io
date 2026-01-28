@@ -41,9 +41,9 @@ Below you will find a list of my scholarly work. For quick access, please use on
 
 **McHaney, J. R.**, Guo, Z., Gnanateja, G. N., Parthasarathy, A., & Chandrasekaran, B. (2025). Neural Coding of Fundamental Frequency and Processing of Discrete Pitch Accents in Middle Age. *European Journal of Neuroscience, 62*(9), e70285.
 
-**McHaney, J. R.^**, Guo, Z.^, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. ***(^co-first authors)***.
+Guo, Z.^, **McHaney, J. R.^**, Parthasarathy, A., McFarlane, K. A., & Chandrasekaran, B. (2025). Reduced neural distinctiveness of speech representations in the middle-aged brain. *Neurobiology of Language, 6*, nol_a_00169. ***(^co-first authors)***.
 
-**McHaney, J. R.^**, Zink, M. E.^, Zhen, L.^, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. ***(^co-first authors)***.
+Zink, M. E.^, Zhen, L.^, **McHaney, J. R.^**, Klara, J., Yurasits, K., Cancel, V., Flemm, O., Mitchell, C., Datta, J., Chandrasekaran, B., & Parthasarathy, A. (2025). Increased listening effort and cochlear neural degeneration underlie behavioral deficits in speech perception in noise in normal hearing middle-aged adults. *eLife, 13*, RP102823. ***(^co-first authors)***.
 
 **McHaney, J. R.**, Hancock, K. E., Polley, D. B., & Parthasarathy, A. (2024). Sensory representations and pupil-indexed listening effort provide complementary contributions to multi-talker speech intelligibility. *Scientific Reports, 14*(1), 30882.
 
@@ -53,7 +53,7 @@ Mukhopadhyay, M., **McHaney, J. R.,**, Chandrasekaran, B., Sarkar, A. (2024). Ba
 
 **McHaney, J. R.,** Schuerman, W. L., Leonard, M. K., & Chandrasekaran, B. (2023). Low amplitude transcutaneous auricular vagus nerve stimulation modulates performance but not pupil size during non-native speech category learning. *Journal of Speech, Language, and Hearing Research, 60*(10), 3825-3843.
 
-Cancel, V. E.^ **, McHaney, J. R.**^, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports, 13*, 13636. ***(^co-first authors).***
+Cancel, V. E.^, **McHaney, J. R.**^, Milne, V. Palmer, C., & Parthasarathy, A. (2023). A data-driven approach to identify a rapid screener for auditory processing disorder testing referrals in adults. *Scientific Reports, 13*, 13636. ***(^co-first authors).***
 
 Lescht, E., Venker, C., **McHaney, J. R.,** Bohland, J., & Hampton Wray, A. (2022). Novel Word Recognition in Childhood Stuttering. *Topics in Language Disorders, 42*(1), 41-56.
 
