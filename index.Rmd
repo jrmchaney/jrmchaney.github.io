@@ -34,7 +34,7 @@ output:
 
 ## About me
 
-I am a Research Assistant Professor at Northwestern University. Prior to joining Northwestern University, I earned my PhD in Communication Science and Disorders at the University of Pittsburgh, where I investigated self-perceived listening difficulties in adults with normal hearing.
+I am a Research Assistant Professor at Northwestern University. Prior to joining Northwestern University, I earned my PhD in Communication Science and Disorders at the University of Pittsburgh, where I investigated self-perceived listening difficulties in adults with normal hearing. I will begin as an Assistant Professor in Speech, Language, and Hearing Sciences at the University of Texas at Austin in August 2026.
 
 My research program focuses on the neural mechanisms underlying speech processing challenges using an interdisciplinary, multimodal neurophysiological, and cognitive computational neuroscience approach. I combine my background in psychology and cognitive neuroscience with my training in neuroscience, audiology, and clinical translational sciences to answer questions about the neurobiology underlying difficulties with speech perception in noisy environments. My long-term research goal is to develop neurobiologically informed rehabilitative and individualized approaches for speech perception in noise difficulties in adults with subclinical hearing loss.
 
